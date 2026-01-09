@@ -14,7 +14,6 @@ This is a simple password generator script written in React. It allows users to 
 
 - JavaScript
 - HTML
-- CSS
 - React for building the user interface
 - Vite for development server and build tool
 - Tailwind CSS for styling
