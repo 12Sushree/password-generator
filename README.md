@@ -21,7 +21,7 @@ This is a simple password generator script written in React. It allows users to 
 
 ## Live Demo
 
-You can try the live demo of the password generator [here](https://your-live-demo-link.com).
+You can try the live demo of the password generator [here](https://password-generator-psi-blush.vercel.app/).
 
 ## Installation
 
